@@ -50,3 +50,9 @@ The pipeline follows a structured 6-stage data lifecycle to ensure auditability 
 
 ## Security Note
 This repository contains the **automation logic only**. No actual scan data, IP addresses, or sensitive network configurations are included. The `.gitignore` is configured to prevent the accidental upload of `.csv` or `.xlsx` files.
+
+---
+
+## Credits
+* **Ahmad Hani:** Developed the initial source code for the scan scripts.
+* **Grisha Tigranyan:** Engineered the 6-stage pipeline, automated archival, and prioritization logic.
