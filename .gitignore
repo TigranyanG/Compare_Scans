@@ -1,0 +1,14 @@
+# Ignore Excel and CSV data
+*.csv
+*.xlsx
+
+# Ignore Python cache and environment
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Ignore the build folders from your PyInstaller attempt
+build/
+dist/
+*.spec
