@@ -1,4 +1,4 @@
-# Compare_Scans: Vulnerability Management & Change Tracking Pipeline
+# Nessus Vulnerability Reporting Tool: Vulnerability Management & Change Tracking Pipeline
 
 ## Overview
 `Compare_Scans` is a Python-based automation pipeline designed to streamline the vulnerability management lifecycle. By shifting from manual PDF summary reviews to automated raw CSV parsing, this tool provides a high-fidelity "Delta" (Change) report between weekly Nessus scans.
